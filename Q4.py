@@ -1,5 +1,5 @@
 
-def calcula_preco_total():
+def calcula_prec_total():
   nome_produto = "Cadeira Infantil"
   preco_unitario = 12.40
   quantidade = 3
@@ -11,4 +11,4 @@ def calcula_preco_total():
   print(f"Quantidade: {quantidade}")
   print(f"Preço Total: R$ {preco_total:.2f}")
 
-calcula_preco_total()
+calcula_prec_total()
