@@ -1,6 +1,4 @@
-
-
-def soma_numeros():
+def som_numeros():
   numero1 = 12
   numero2 = 14
   soma = numero1 + numero2
@@ -9,4 +7,4 @@ def soma_numeros():
   print(f"Número 2: {numero2}")
   print(f"Soma: {soma}")
 
-soma_numeros()
+som_numeros()
